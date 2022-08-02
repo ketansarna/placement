@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\placement\linkedl list\linked list\linked list\Source.cpp(188): warning C4715: 'findintersection': not all control paths return a value
+  linked list.vcxproj -> D:\placement\linkedl list\linked list\Debug\linked list.exe

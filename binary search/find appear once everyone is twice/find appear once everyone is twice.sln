@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "find appear once everyone is twice", "find appear once everyone is twice\find appear once everyone is twice.vcxproj", "{6D76A8B4-9253-449C-83A0-C10D084D9186}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D76A8B4-9253-449C-83A0-C10D084D9186}.Debug|x64.ActiveCfg = Debug|x64
+		{6D76A8B4-9253-449C-83A0-C10D084D9186}.Debug|x64.Build.0 = Debug|x64
+		{6D76A8B4-9253-449C-83A0-C10D084D9186}.Debug|x86.ActiveCfg = Debug|Win32
+		{6D76A8B4-9253-449C-83A0-C10D084D9186}.Debug|x86.Build.0 = Debug|Win32
+		{6D76A8B4-9253-449C-83A0-C10D084D9186}.Release|x64.ActiveCfg = Release|x64
+		{6D76A8B4-9253-449C-83A0-C10D084D9186}.Release|x64.Build.0 = Release|x64
+		{6D76A8B4-9253-449C-83A0-C10D084D9186}.Release|x86.ActiveCfg = Release|Win32
+		{6D76A8B4-9253-449C-83A0-C10D084D9186}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {595FACF6-5237-4DA8-AD59-6B3368D80493}
+	EndGlobalSection
+EndGlobal

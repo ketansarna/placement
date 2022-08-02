@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "merge 2 sorted array without extra space", "merge 2 sorted array without extra space\merge 2 sorted array without extra space.vcxproj", "{C10E46AA-5B81-4428-80A0-9719CEBE96E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C10E46AA-5B81-4428-80A0-9719CEBE96E8}.Debug|x64.ActiveCfg = Debug|x64
+		{C10E46AA-5B81-4428-80A0-9719CEBE96E8}.Debug|x64.Build.0 = Debug|x64
+		{C10E46AA-5B81-4428-80A0-9719CEBE96E8}.Debug|x86.ActiveCfg = Debug|Win32
+		{C10E46AA-5B81-4428-80A0-9719CEBE96E8}.Debug|x86.Build.0 = Debug|Win32
+		{C10E46AA-5B81-4428-80A0-9719CEBE96E8}.Release|x64.ActiveCfg = Release|x64
+		{C10E46AA-5B81-4428-80A0-9719CEBE96E8}.Release|x64.Build.0 = Release|x64
+		{C10E46AA-5B81-4428-80A0-9719CEBE96E8}.Release|x86.ActiveCfg = Release|Win32
+		{C10E46AA-5B81-4428-80A0-9719CEBE96E8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2A824E5-892D-4DB0-A60D-4AC9C676E127}
+	EndGlobalSection
+EndGlobal
